@@ -14,6 +14,7 @@ function App() {
         </Routes>
         {/* Kanbas */}
         < a href = "https://github.com/96philly/kanbas-react-web-app"></a>
+            GitHub
       </div>
     </HashRouter>
   );
