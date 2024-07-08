@@ -56,10 +56,10 @@ export default function Modules() {
             </ul>
           </li>
           <li className="wd-module">
-            <div className="wd-title">Week 2</div>
+            <div className="wd-title"></div>
             <ul className="wd-lessons">
               <li className="wd-lesson">
-                <span className="wd-title">LEARNING OBJECTIVES</span>
+                <span className="wd-title"></span>
                 <ul className="wd-content">
                   {/* week2 */}
                 </ul>
