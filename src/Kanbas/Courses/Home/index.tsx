@@ -1,16 +1,10 @@
-import Modules from "../Modules";
-import CourseStatus from "./Status";
-export default function Home() {
+export default function CourseStatus() {
   return (
-    <table id="wd-home">
-      <tr>
-        <td valign="top">
-          <Modules />
-        </td>
-        <td valign="top">
-          <CourseStatus />
-        </td>
-      </tr>
-    </table>
+    <div id="wd-course-status">
+      <h2>Course Status</h2>
+      <button>Unpublish</button> <button>Publish</button>
+      {/* Complete on your own */}
+      <button>View Course Notifications</button>
+    </div>
   );
 }
